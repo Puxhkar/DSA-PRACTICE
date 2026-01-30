@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
