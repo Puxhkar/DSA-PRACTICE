@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 ## Trie
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
