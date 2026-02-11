@@ -29,17 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
