@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
