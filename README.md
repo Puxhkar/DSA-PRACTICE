@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Binary Search Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Recursion
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
