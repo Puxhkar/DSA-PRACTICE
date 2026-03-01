@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
