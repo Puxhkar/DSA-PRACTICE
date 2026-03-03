@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
+| [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
