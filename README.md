@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
