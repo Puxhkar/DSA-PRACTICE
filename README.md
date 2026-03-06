@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
@@ -25,66 +25,68 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0062-unique-paths) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
@@ -92,13 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0024-swap-nodes-in-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0006-zigzag-conversion) |
@@ -110,13 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0015-3sum) |
@@ -127,68 +129,69 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0062-unique-paths) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
