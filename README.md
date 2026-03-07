@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
