@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
+| [1009-complement-of-base-10-integer](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
