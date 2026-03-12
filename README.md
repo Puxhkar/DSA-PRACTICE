@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
