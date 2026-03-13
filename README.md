@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
