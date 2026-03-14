@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
