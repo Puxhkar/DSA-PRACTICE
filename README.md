@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [1622-fancy-sequence](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
