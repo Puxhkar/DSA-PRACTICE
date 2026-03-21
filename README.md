@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
