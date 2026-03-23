@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
