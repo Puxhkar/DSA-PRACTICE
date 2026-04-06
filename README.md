@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [0874-walking-robot-simulation](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0139-word-break) |
+| [0874-walking-robot-simulation](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
