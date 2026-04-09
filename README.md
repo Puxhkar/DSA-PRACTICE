@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Puxhkar/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Puxhkar/DSA-PRACTICE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
